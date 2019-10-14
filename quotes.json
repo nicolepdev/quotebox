@@ -32,7 +32,6 @@
   {
     "quote": "Life id like a double sided coin. It bring both bad and good with it how you handle and live it is up to you",
     "speaker": "Desire Lumene"
-
   },
   {
     "quote": "Don't believe anything you read on the net. Except this. Well, including this, I suppose.",
@@ -248,12 +247,10 @@
     "speaker": "Mahatma Gandhi"
   },
   {
-
     "quote": "Be yourself; everyone else is already taken.",
     "speaker": "Oscar Wilde"
   },
   {
-
     "quote": "The greatest victory is that which requires no battle.",
     "speaker": "Sun Tzu"
   },
@@ -274,44 +271,37 @@
     "speaker": "Charles Darwin"
   },
   {
-  "quote" : "However difficult life may seem, there is always something you can do and succeed at.",
-  "speaker" : "Stephen Hawking"
+    "quote": "However difficult life may seem, there is always something you can do and succeed at.",
+    "speaker": "Stephen Hawking"
   },
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
   },
   {
-
-    "quote":"He who is not courageous enough to take risks will accomplish nothing in life.",
-    "speaker":"Muhammad Ali"
-
-
-
+    "quote": "He who is not courageous enough to take risks will accomplish nothing in life.",
+    "speaker": "Muhammad Ali"
   },
 
   {
-    "quote" : "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
-    "speaker" : "David Leinweber"
-  },
-  { 
-    "quote":"Happiness is when what you think, what you say, and what you do are in harmony",
-    "speaker":"Mahatma Gandhi"
+    "quote": "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
+    "speaker": "David Leinweber"
   },
   {
-
-  "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
-  "speaker": "Kurt Cobain"
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony",
+    "speaker": "Mahatma Gandhi"
+  },
+  {
+    "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
+    "speaker": "Kurt Cobain"
   },
   {
     "quote": "Keep your friends close, your enemies even closer.",
     "speaker": "Sun Tzu"
-
   },
   {
     "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
     "speaker": "Beyoncé Knowles"
-
   },
   {
     "quote": "Wherever you go becomes a part of you somehow.",
@@ -320,17 +310,18 @@
   {
     "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
     "speaker": "Lord Acton"
-
   },
   {
     "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
-     "speaker": "Henry Ford"
-
-
+    "speaker": "Henry Ford"
   },
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
-    "speaker":"Haruki Murakami"
-  }
+    "speaker": "Haruki Murakami"
+  },
 
+  {
+    "quote": "The present is theirs; the future, for which I really worked, is mine.",
+    "speaker": "Nikola Tesla"
+  }
 ]
